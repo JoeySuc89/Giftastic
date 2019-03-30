@@ -7,7 +7,9 @@
 }
 
 #disply_scr {
+
   display: grid;
-  grid-template-columns: auto auto auto auto;
-  margin: 15px;
+  grid-template-columns: auto auto auto;
+  margin: 5px;
+
 }

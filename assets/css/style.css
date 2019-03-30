@@ -1,4 +1,13 @@
-#people-form {
-  align-content: right;
-  
+.gif-btn {
+  background-color: black;
+  font-size: 12px;
+  margin: 5px;
+  border-radius: 10px;
+  color: limegreen;
+}
+
+#disply_scr {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin: 15px;
 }
